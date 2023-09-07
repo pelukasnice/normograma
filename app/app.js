@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Crear una instancia de Image para la imagen de fondo
   const fondoImg = new Image();
-  fondoImg.src = 'img/Temperature-time-of-death-nomogram-for-ambient-temperatures-of-23C.gif';
+  fondoImg.src = 'img/normograma - temperatura encima de 23 x4.png';
 
   // Manejar la carga de la imagen de fondo en el canvas
   fondoImg.onload = function() {

@@ -1,5 +1,5 @@
-/*#lienzo {
-    width: 100%;
+#lienzo {
+    border: 1px solid black;
     margin-top: 30px;
     
-    }*/
+    }

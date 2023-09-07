@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
       pdf.text('Tanatología', 450, 35); // Título en el centro del encabezado
   
       // Agregar imagen del canvas a la derecha
-      pdf.addImage(canvasImage, 'jpeg', 450, 50, 500, 500);
+      pdf.addImage(canvasImage, 'jpg', 450, 50, 500, 500);
   
       // Agregar datos a la izquierda
       const datos = [
